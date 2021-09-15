@@ -5,7 +5,9 @@
 <h2>Welcome Again!</h2>
 
 <h2>Now We Have: </h2>
-1. The textbook of the course
-2. The course outline 
-3. The "homework" code
-4. no, no four
+<ol>
+  <li>1. The textbook of the course</li>
+  <li>2. The course outline </li>
+  <li>3. The "homework" code</li>
+  <li>4. no, no four</li>
+</ol>
