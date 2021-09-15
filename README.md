@@ -3,3 +3,9 @@
 <h3>This is the place for everyone in our class to boost🚀🚀🚀 your coding skills🔥, coding style🔥, coding knowledge🔥 and everything you can image about coding🔥🔥🔥, you can find them all in the GitHub1😆😆😆</h3>
 
 <h2>Welcome Again!</h2>
+
+<h2>Now We Have: </h2>
+1. The textbook of the course
+2. The course outline 
+3. The "homework" code
+4. no, no four
