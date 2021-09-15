@@ -6,8 +6,8 @@
 
 <h2>Now We Have: </h2>
 <ol>
-  <li>1. The textbook of the course</li>
-  <li>2. The course outline </li>
-  <li>3. The "homework" code</li>
-  <li>4. no, no four</li>
+  <li>The textbook of the course</li>
+  <li>The course outline </li>
+  <li>The "homework" code</li>
+  <li>no, no four</li>
 </ol>
