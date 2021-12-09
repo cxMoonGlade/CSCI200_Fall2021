@@ -31,15 +31,16 @@ const int kBoardSizeNum = 10;
 class GameModel
 {
 public:
-    GameModel();
-
-public:
-    std::vector<std::vector<int>> gameMapVec; // save current game board and chess status; no chess = 0, white = 1, black = -1
-    std::vector<std::vector<int>> scoreMapVec; // save the current chess's importance score for AI's decision.
     bool playerFlag; // Who is playing
     GameType gameType; // Game type; P1_VS_P2 | P1_VS_COM
     GameStatus gameStatus; // Game Status
 
+    std::vector<std::vector<int>> gameMapVec; // save current game board and chess status; no chess = 0, white = 1, black = -1
+    std::vector<std::vector<int>> scoreMapVec; // save the current chess's importance score for AI's decision.
+    
+
+public:
+    GameModel();
     void startGame(GameType type); // Game Begins
     void calculateScore(); // calculate the importance score
     void actionByPerson(int row, int col); // player placing chess
